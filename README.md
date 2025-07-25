@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihatavsar&show_icons=true&locale=en&layout=compact" alt="nihatavsar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatavsar&show_icons=true&locale=en" alt="nihatavsar" /></p>
+
+![snake gif](https://github.com/NihatAvsar/NihatAvsar/blob/output/github-contribution-grid-snake.gif)
