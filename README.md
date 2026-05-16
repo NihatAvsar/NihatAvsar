@@ -56,20 +56,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
-### GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihatavsar&show_icons=true&locale=en&layout=compact" alt="nihatavsar" />
-</p>
-
-<br><br><br><br><br><br><br>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatavsar&show_icons=true&locale=en" alt="nihatavsar" />
-</p>
-
----
-
 ### Snake Game Contributions
 
 <picture>
