@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nihat Avşar</h1>
 
 <h3 align="center">
-  Software Engineer | Developer from Turkey
+  Software Engineer | Developer 
+  from Turkey
 </h3>
 
 <p align="center">
